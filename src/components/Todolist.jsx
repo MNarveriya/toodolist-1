@@ -49,8 +49,6 @@ const Todolist = () => {
             required
             
           />
-          {/* <button className={todolist.btn} role="button" onClick={toggle}>
-          </button> */}
             <AiFillPlusSquare className={todolist.icon} onClick={toggle} />
         </div>
 
